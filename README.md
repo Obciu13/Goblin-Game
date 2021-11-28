@@ -1,4 +1,4 @@
-# TestGit
+# GoblinGame
 
 Roguelike game developed with Unreal Engine 4 (Blueprints). 
 
